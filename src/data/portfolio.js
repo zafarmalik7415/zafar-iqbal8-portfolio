@@ -9,44 +9,44 @@ export const PROFILE = {
   tagline:
     "With expertise in SEO, Local SEO, Jetpack Compose, and modern mobile backends… I deliver apps that are polished, scalable, and ready for the store.",
   about:
-    "I’m a senior mobile engineer with 8+ years of experience designing, building, and shipping production apps for startups and established brands. My work spans cross-platform Flutter products, native Android (Kotlin / Jetpack Compose), Android TV streaming, maps & realtime systems, payments, and App Store / Play Store releases. I own features from architecture to release — clean code, scalable state management, reliable backends, and UI that feels intentional on every device.",
+    "I’m a SEO Expert engineer with 8+ years of experience designing, building, and shipping production apps for startups and established brands. My work spans cross-platform Flutter products, native Android (Kotlin / Jetpack Compose), Android TV streaming, maps & realtime systems, payments, and App Store / Play Store releases. I own features from architecture to release — clean code, scalable state management, reliable backends, and UI that feels intentional on every device.",
   avatar: "/avatar.png",
-  email: "srndrddev@gmail.com",
+  email: "zafarmalik7415@gmail.com",
   social: {
-    linkedin: "https://www.linkedin.com/in/usama-saeed-61205b207/",
+    linkedin: "https://www.linkedin.com/in/zafar-iqbal-235116293/",
   },
   highlights: [
-    { value: "8+", label: "Years Experience" },
-    { value: "20+", label: "Projects Completed" },
-    { value: "15+", label: "Apps Shipped" },
+    { value: "5+", label: "Years Experience" },
+    { value: "15+", label: "Projects Completed" },
+    { value: "15+", label: "Project Done" },
     { value: "iOS/Android", label: "Store Releases" },
   ],
 };
 
 export const SERVICES = [
   {
-    title: "Mobile App Development",
-    desc: "Native-feeling Android & iOS apps with Flutter, Kotlin, and Jetpack Compose — from MVP to App Store release.",
+    title: "SEO Services",
+    desc: "Technical audits, on-page optimization, and content strategy built to rank — turning search traffic into real business growth.",
   },
   {
-    title: "UI / UX Implementation",
-    desc: "Pixel-accurate interfaces, smooth motion, and adaptive layouts that feel premium on every screen size.",
+    title: "Local SEO",
+    desc: "Hyper-targeted visibility for 'near me' searches, local citations, and map-pack rankings that drive foot traffic and calls.",
   },
   {
-    title: "API & Cloud Integration",
-    desc: "Firebase, Supabase, REST, and secure auth flows wired cleanly into scalable mobile architectures.",
+    title: "GBP Optimisation",
+    desc: "Fully optimized Google Business Profiles with accurate listings, reviews strategy, and posts that boost local trust and clicks.",
   },
   {
-    title: "Maps & Realtime Features",
-    desc: "Geolocation, live tracking, ride-sharing flows, and push notification pipelines built for production.",
+    title: "Link Building",
+    desc: "White-hat backlinks through targeted email outreach and strategic link exchanges — building authority that search engines reward.",
   },
   {
-    title: "E-commerce & Ops Apps",
-    desc: "Warehouse packing, barcode scanning, bookings, and payment-ready commerce experiences.",
+    title: "Keywords Research",
+    desc: "Data-driven keyword mapping that uncovers high-intent search terms your competitors are missing and your customers are searching.",
   },
   {
-    title: "Performance & Release",
-    desc: "Crash monitoring, offline-first caching, store listing prep, and reliable CI-friendly codebases.",
+    title: "SMM",
+    desc: "Platform-native social strategy, content calendars, and community growth that turn followers into loyal, paying customers.",
   },
 ];
 
