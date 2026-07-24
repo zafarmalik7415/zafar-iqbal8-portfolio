@@ -3,13 +3,13 @@ export const PROFILE = {
   firstName: "Zafar",
   roleLead: "Senior",
   roleHighlight: "SEO",
-  roleRest: "Exper",
+  roleRest: "Expert",
   experience: "5+",
   location: "Lahore, Pakistan",
   tagline:
-    "With expertise in SEO, Local SEO, Jetpack Compose, and modern mobile backends… I deliver apps that are polished, scalable, and ready for the store.",
+    "With expertise in SEO, Local SEO, GBP Optimisation, and strategic link building. I deliver visibility that's authentic, sustainable, and ready to rank.",
   about:
-    "I’m a SEO Expert engineer with 8+ years of experience designing, building, and shipping production apps for startups and established brands. My work spans cross-platform Flutter products, native Android (Kotlin / Jetpack Compose), Android TV streaming, maps & realtime systems, payments, and App Store / Play Store releases. I own features from architecture to release — clean code, scalable state management, reliable backends, and UI that feels intentional on every device.",
+    "I'm an SEO Expert with 8+ years of experience designing, executing, and scaling search strategies for startups and established brands. My work spans technical SEO audits, Local SEO and GBP optimisation, topical authority and content strategy, strategic link building through outreach and exchanges, and full-funnel keyword research paired with social media growth. I own campaigns from strategy to results, clean technical foundations, sustainable link profiles, data-driven optimization, and visibility that feels intentional on every platform.",
   avatar: "/avatar.png",
   email: "zafarmalik7415@gmail.com",
   social: {
@@ -18,8 +18,7 @@ export const PROFILE = {
   highlights: [
     { value: "5+", label: "Years Experience" },
     { value: "15+", label: "Projects Completed" },
-    { value: "15+", label: "Projects Done" },
-    { value: "iOS/Android", label: "Store Releases" },
+    { value: "12+", label: "Projects Ranked" },
   ],
 };
 
