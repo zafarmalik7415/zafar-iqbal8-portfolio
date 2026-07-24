@@ -7,7 +7,7 @@ export default function Footer() {
         <p>
           © {new Date().getFullYear()} {PROFILE.name}. All rights reserved.
         </p>
-        <p>Senior Mobile App Developer · {PROFILE.experience} Years</p>
+        <p>Senior SEO Expert · {PROFILE.experience} Years</p>
       </div>
     </footer>
   );
