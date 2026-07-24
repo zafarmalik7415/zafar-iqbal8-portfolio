@@ -17,7 +17,7 @@ export default function About() {
         <div className="about__content">
           <p className="section__eyebrow">About</p>
           <h2 className="section__title">
-            {PROFILE.experience} years of passion for <span>mobile craft</span>
+            {PROFILE.experience} years of obsession with <span>organic growth</span> 
           </h2>
           <p className="about__text">{PROFILE.about}</p>
 
