@@ -1,13 +1,13 @@
 export const PROFILE = {
-  name: "Usama Saeed",
-  firstName: "Usama",
+  name: "Zafar Iqbal",
+  firstName: "Zafar",
   roleLead: "Senior",
-  roleHighlight: "Mobile",
-  roleRest: "App Developer",
-  experience: "8+",
+  roleHighlight: "SEO",
+  roleRest: "Exper",
+  experience: "5+",
   location: "Lahore, Pakistan",
   tagline:
-    "With expertise in Flutter, Kotlin, Jetpack Compose, and modern mobile backends… I deliver apps that are polished, scalable, and ready for the store.",
+    "With expertise in SEO, Local SEO, Jetpack Compose, and modern mobile backends… I deliver apps that are polished, scalable, and ready for the store.",
   about:
     "I’m a senior mobile engineer with 8+ years of experience designing, building, and shipping production apps for startups and established brands. My work spans cross-platform Flutter products, native Android (Kotlin / Jetpack Compose), Android TV streaming, maps & realtime systems, payments, and App Store / Play Store releases. I own features from architecture to release — clean code, scalable state management, reliable backends, and UI that feels intentional on every device.",
   avatar: "/avatar.png",
