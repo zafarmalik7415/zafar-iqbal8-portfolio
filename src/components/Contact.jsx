@@ -16,7 +16,7 @@ export default function Contact() {
               Let’s <span>connect</span>
             </h2>
             <p className="contact__lede">
-              Excited to take on new projects and collaborate. Tell me about your app idea — Android, iOS, or both.
+              Invisible on search, losing leads to competitors? Tell me about your business. I'll help you get found.
             </p>
 
             <div className="contact__grid">
