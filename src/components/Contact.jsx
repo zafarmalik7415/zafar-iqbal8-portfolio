@@ -26,7 +26,7 @@ export default function Contact() {
               </a>
               <a className="contact__item" href={PROFILE.social.linkedin} target="_blank" rel="noreferrer">
                 <span>LinkedIn</span>
-                <strong>Usama Saeed</strong>
+                <strong>Zafar Iqbal</strong>
               </a>
               <div className="contact__item">
                 <span>Location</span>
